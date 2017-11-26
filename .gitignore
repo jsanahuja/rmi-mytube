@@ -1,0 +1,6 @@
+node_modules
+Shurimages-*
+TMP
+config.json
+js/api.js
+package-lock.json
